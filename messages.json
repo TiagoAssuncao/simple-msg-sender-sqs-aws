@@ -1,0 +1,10 @@
+[
+    {
+        "message_id": 1,
+        "content": "Hello from message 1!"
+    },
+    {
+        "message_id": 2,
+        "content": "Hello from message 2!"
+    }
+]
