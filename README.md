@@ -1,4 +1,6 @@
 # AWS SQS Message Sender
+![PyPI - Python Version](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 A Python script to send messages to AWS SQS queues. This script reads messages from an external JSON file and retrieves AWS credentials from a config file.
 
